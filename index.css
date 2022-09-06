@@ -4,3 +4,9 @@
 .container .row h1{
     
 }
+.card-img-top{
+    height: 286px;
+}
+.card{
+    height: 454;
+}
